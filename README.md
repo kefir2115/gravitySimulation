@@ -1,2 +1,2 @@
-# gravitySimulation
-Gravity program example using JavaScript
+# Gravity Simulation
+Gravity program example using pure JavaScript, CSS and HTML
